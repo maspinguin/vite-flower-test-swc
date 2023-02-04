@@ -1,0 +1,41 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.flower {
+  position: relative;
+  width: 400px;
+  height: 400px;
+}
+
+.petal {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  width: 370px;
+  height: 105px;
+  background: pink;
+  border-radius: 0 0 50% 50%;
+  transform-origin: bottom center;
+  transform: rotate(60deg);
+}
+
+.center {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  margin-top: 200px;
+  width: 100px;
+  height: 100px;
+  background: yellow;
+  border-radius: 50%;
+}
