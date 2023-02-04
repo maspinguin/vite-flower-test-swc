@@ -7,8 +7,8 @@
 
 .flower {
   position: relative;
-  width: 400px;
-  height: 400px;
+  width: 300px;
+  height: 300px;
 }
 
 .petal {
@@ -18,8 +18,8 @@
   right: 0;
   bottom: 0;
   margin: auto;
-  width: 370px;
-  height: 105px;
+  width: 278px;
+  height: 79px;
   background: #E37100;
   border-radius: 0 0 50% 50%;
   transform-origin: bottom center;
@@ -33,9 +33,9 @@
   right: 0;
   bottom: 0;
   margin: auto;
-  margin-top: 200px;
-  width: 100px;
-  height: 100px;
+  margin-top: 150px;
+  width: 75px;
+  height: 75px;
   background: #E89745;
   border-radius: 50%;
 }
