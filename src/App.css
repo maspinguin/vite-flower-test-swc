@@ -20,7 +20,7 @@
   margin: auto;
   width: 370px;
   height: 105px;
-  background: pink;
+  background: #E37100;
   border-radius: 0 0 50% 50%;
   transform-origin: bottom center;
   transform: rotate(60deg);
@@ -36,6 +36,6 @@
   margin-top: 200px;
   width: 100px;
   height: 100px;
-  background: yellow;
+  background: #E89745;
   border-radius: 50%;
 }
